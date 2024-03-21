@@ -14,13 +14,6 @@ playGame( betAmount){
     } 
 };
 
-// Create a method called playGame(betAmount: number)
-    // if Math.random() <= 0.5;
-    // console.log that the name of the casino wins.
-// else{
-    // say the player wins the bet amount
-// }
-
 // TESTS
 const myCasino = new Casino("HackerU Casino");
 console.log(myCasino);
